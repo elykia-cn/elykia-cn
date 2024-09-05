@@ -10,14 +10,11 @@
   <div>&nbsp;</div>
 
 
-<div style="overflow: hidden;">
-    <div style="float: left; margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&show_icons=true&theme=true" alt="Elykia's GitHub stats">
-    </div>
-    <div>
-        <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent" alt="Elykia's GitHub streak stats">
-    </div>
+<div style="display: flex; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&show_icons=true&theme=true" alt="Elykia's GitHub stats">
+    <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent" alt="Elykia's GitHub streak stats">
 </div>
+
 
 
 #  🙋 Hello
@@ -36,6 +33,8 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
+<div>&nbsp;</div>
+
 </td></tr>
 
 <tr><td>
@@ -44,10 +43,12 @@
 
 <img align="right" width="88" src="https://www.zzu.edu.cn/images/fj/weixintupian_20200814164712.jpg" />
 
-- [EDU](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
+- [郑州大学](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
 
   - 学习阶段：本科
   - 学习专业：工程力学
+
+<div>&nbsp;</div>
 
 </td></tr>
 
@@ -67,6 +68,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
+
+<div>&nbsp;</div>
 
 <!--END_SECTION:waka-->
 
