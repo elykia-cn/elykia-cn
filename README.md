@@ -9,9 +9,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-![Elykia's GitHub stats](https://github-readme-stats.vercel.app/api?username=elykia-cn&show_icons=true&theme=true)
-
-![Elykia's GitHub streak stats](https://streak-stats.demolab.com?user=elykia-cn&theme=transparent)
 
 <table>
   <tr>
@@ -77,11 +74,7 @@
 
 <tr><td>
 
-
-<!-- ########################################## 分割 ########################################## -->
-
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+</div>
 
 <div align="center" >
 
