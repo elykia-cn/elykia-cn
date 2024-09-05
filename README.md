@@ -1,3 +1,88 @@
+<!-- dynamic typing effect 动态打字效果 -->
+<div align="center">
+    <a href="https://blog.elykia.cn/">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Elykia祝您今天愉快!&center=true&size=27" />
+    </a>
+</div>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&show_icons=true&theme=true" alt="Elykia's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=elykia-cn&show_icons=true&theme=transparent" alt="Elykia's GitHub streak stats" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://image-review.jsdmirror.com/gh/elykia-cn/elykia-cn/Elykia.gif" />
+
+<p>&emsp;&emsp;嗨，欢迎来到我的主页！我是Elykia。</p>
+<p>&emsp;&emsp;Github 是一个很有魅力的地方，有许许多多的大佬在这里活跃。 </p>
+<p>&emsp;&emsp;学习真的是一个很棒的习惯，通过学习别人的东西转变成为自己的。 </p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+
+### 🏢 Educational Experience
+
+<img align="right" width="88" src="https://www.zzu.edu.cn/images/fj/weixintupian_20200814164712.jpg" />
+
+- [EDU](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
+
+  - 学习阶段：本科
+  - 学习专业：工程力学
+
+</td></tr>
+
+<tr><td>
+
+
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+<tr><td>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=elykia-cn&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=elykia-cn&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=elykia-cn&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
 <!--  skill badge 技能徽章 -->
 
@@ -61,8 +146,6 @@
 
 
 
-![Elykia's GitHub stats](https://github-readme-stats.vercel.app/api?username=elykia-cn&show_icons=true&theme=true)
-
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto">
@@ -70,8 +153,3 @@
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elykia-cn&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
