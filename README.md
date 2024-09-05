@@ -23,12 +23,12 @@
 #  🙋 Hello
 
 <table>
-  
+
 <tr><td>
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/Elykia.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/Elykia.jpg" />
 
 <p>&emsp;&emsp;嗨，欢迎来到我的主页！我是Elykia。</p>
 <p>&emsp;&emsp;Github 是一个很有魅力的地方，有许许多多的大佬在这里活跃。 </p>
