@@ -10,16 +10,14 @@
   <div>&nbsp;</div>
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true" alt="Elykia's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent" alt="Elykia's GitHub streak stats" />
-    </td>
-  </tr>
-</table>
+<div style="overflow: hidden;">
+    <div style="float: left; margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&show_icons=true&theme=true" alt="Elykia's GitHub stats">
+    </div>
+    <div>
+        <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent" alt="Elykia's GitHub streak stats">
+    </div>
+</div>
 
 
 #  🙋 Hello
@@ -30,7 +28,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://image-review.jsdmirror.com/gh/elykia-cn/elykia-cn/Elykia.gif" />
+<img align="right" width="88" src="https://image-review.jsdmirror.com/gh/elykia-cn/elykia-cn/Elykia.png" />
 
 <p>&emsp;&emsp;嗨，欢迎来到我的主页！我是Elykia。</p>
 <p>&emsp;&emsp;Github 是一个很有魅力的地方，有许许多多的大佬在这里活跃。 </p>
