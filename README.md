@@ -74,7 +74,7 @@
 
 <tr><td>
 
-</div>
+<hr />
 
 <div align="center" >
 
