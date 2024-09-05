@@ -28,7 +28,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/elykia-cn.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/image/elykia-cn.jpg" />
 
 <p>&emsp;&emsp;嗨，欢迎来到我的主页！我是Elykia。</p>
 <p>&emsp;&emsp;Github 是一个很有魅力的地方，有许许多多的大佬在这里活跃。 </p>
@@ -44,7 +44,7 @@
 
 ### 🏢 Educational Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/ZZU.jpg" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/image/ZZU.jpg" />
 
 - [郑州大学](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
 
