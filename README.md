@@ -14,7 +14,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true" alt="Elykia's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true" alt="Elykia's GitHub streak stats" />
+      <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent" alt="Elykia's GitHub streak stats" />
     </td>
   </tr>
 </table>
