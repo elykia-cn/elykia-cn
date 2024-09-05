@@ -44,7 +44,7 @@
 
 ### 🏢 Educational Experience
 
-<img align="right" width="88" src="https://www.zzu.edu.cn/images/fj/weixintupian_20200814164712.jpg" />
+<img align="right" width="88" src="image-review.jsdmirror.com/gh/elykia-cn/elykia-cn/ZZU.jpg" />
 
 - [郑州大学](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
 
