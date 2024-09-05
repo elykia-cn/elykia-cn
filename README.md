@@ -5,16 +5,19 @@
     </a>
 </div>
 
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-
-<div style="display: flex; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&show_icons=true&theme=true" alt="Elykia's GitHub stats">
-    <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent" alt="Elykia's GitHub streak stats">
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true" alt="Elykia's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true" alt="Elykia's GitHub streak stats" />
+    </td>
+  </tr>
+</table>
 
 
 #  🙋 Hello
