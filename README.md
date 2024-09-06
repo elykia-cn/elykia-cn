@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://blog.elykia.cn/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);生活明朗  万物可爱!&center=true&size=27" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);生活明朗  万物可爱&center=true&size=27" />
     </a>
 </div>
 
@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true" alt="Elykia's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true&hide_border=true&include_all_commits=true" alt="Elykia's GitHub stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent" alt="Elykia's GitHub streak stats" />
+      <img src="https://streak-stats.demolab.com?user=elykia-cn&theme=transparent&hide_border=true" alt="Elykia's GitHub streak stats" />
     </td>
   </tr>
 </table>
@@ -64,14 +64,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Elykia&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Elykia&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elykia-cn&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elykia&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 <div>&nbsp;</div>
