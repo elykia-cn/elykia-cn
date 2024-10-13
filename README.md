@@ -48,10 +48,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/elykia-cn/elykia-cn/image/ZZU.jpg" />
 
-- [郑州大学](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
-
-  - 学习阶段：本科
-  - 学习专业：工程力学
+- [Zhengzhou University](https://www.zzu.edu.cn/) &emsp; 📌 2022-09-01 —— 2026-06-31
+  - 学习阶段：**undergraduate**
+  - 学习专业：Engineering Mechanics
 
 <div>&nbsp;</div>
 
