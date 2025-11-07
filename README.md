@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=true&hide_border=true&include_all_commits=true" alt="Elykia's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=elykia-cn&theme=transparent&hide_border=true&include_all_commits=true" alt="Elykia's GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=elykia-cn&theme=transparent&hide_border=true" alt="Elykia's GitHub streak stats" />
